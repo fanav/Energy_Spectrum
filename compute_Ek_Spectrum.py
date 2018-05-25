@@ -1,6 +1,6 @@
 # python 3
 
-# Script for the computation of 3D spectrum of the Turbulent Kinetic Energy
+# Script for the computation of 3D spectrum of the Total Kinetic Energy
 # Adapted to the Taylor-Green vortex (TGV) problem.
 # CREATED by FARSHAD NAVAH
 # McGill University
@@ -139,10 +139,10 @@ TKEofmean_sphere   = EK_avsphr[0]
 total_TKE_discrete = np.sum(0.5*(U**2+V**2+W**2))/(N*1.0)**3
 total_TKE_sphere   = np.sum(EK_avsphr)
 
-print("the TKE  of the mean velocity discrete  = ",TKEofmean_discrete)
-print("the TKE  of the mean velocity sphere    = ",TKEofmean_sphere )
-print("the mean total TKE discrete  = ",total_TKE_discrete)
-print("the mean total TKE sphere    = ",total_TKE_sphere)
+print("the KE  of the mean velocity discrete  = ",TKEofmean_discrete)
+print("the KE  of the mean velocity sphere    = ",TKEofmean_sphere )
+print("the mean KE discrete  = ",total_TKE_discrete)
+print("the mean KE sphere    = ",total_TKE_sphere)
 
 localtime = time.asctime( time.localtime(time.time()) )
 print ("Computing spectrum... ",localtime, "- END \n")
