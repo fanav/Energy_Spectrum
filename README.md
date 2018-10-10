@@ -1,5 +1,17 @@
 # Energy_Spectrum
 
+---------------------------------------------
+#### -> Please cite us upon utilization <-
+The reference describing the algorithm is: [https://arxiv.org/abs/1809.03966](https://arxiv.org/abs/1809.03966)     
+
+"A High-Order Variational Multiscale Approach to Turbulence for Compact Nodal Schemes"
+
+Farshad Navah (farshad.navah@mail.mcgill.ca) ; Marta de la Llave Plata, Vincent Couaillier
+
+McGill University / ONERA Châtilon
+
+---------------------------------------------
+
 Script (with example) to compute the kinetic energy spectrum of periodic turbulent flows. Adapted to the Taylor-Green vortex (TGV) problem.
 
 Instructions:
