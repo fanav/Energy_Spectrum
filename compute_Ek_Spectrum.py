@@ -7,7 +7,9 @@
 # farshad.navah .a.t. mail.mcgill.ca
 # 2018
 # provided as is with no garantee.
-
+# Please cite:
+#    https://github.com/fanav/Energy_Spectrum
+#    https://arxiv.org/abs/1809.03966
 
 # -----------------------------------------------------------------
 #  IMPORTS - ENVIRONMENT
