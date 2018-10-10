@@ -11,7 +11,7 @@ The reference describing the algorithm is: [https://arxiv.org/abs/1809.03966](ht
 
 Farshad Navah (farshad.navah@mail.mcgill.ca) ; Marta de la Llave Plata, Vincent Couaillier
 
-McGill University / ONERA Châtilon
+McGill University / ONERA Châtillon
 
 **Reference 2:** 
 
