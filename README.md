@@ -2,6 +2,9 @@
 
 ---------------------------------------------
 #### -> Please cite us upon utilization <-
+
+**Reference 1:**
+
 The reference describing the algorithm is: [https://arxiv.org/abs/1809.03966](https://arxiv.org/abs/1809.03966)     
 
 "A High-Order Variational Multiscale Approach to Turbulence for Compact Nodal Schemes"
@@ -9,6 +12,10 @@ The reference describing the algorithm is: [https://arxiv.org/abs/1809.03966](ht
 Farshad Navah (farshad.navah@mail.mcgill.ca) ; Marta de la Llave Plata, Vincent Couaillier
 
 McGill University / ONERA Châtilon
+
+**Reference 2:** 
+
+https://github.com/fanav/Energy_Spectrum
 
 ---------------------------------------------
 
