@@ -5,13 +5,17 @@
 
 **Reference 1:**
 
-The reference describing the algorithm is: [https://arxiv.org/abs/1809.03966](https://arxiv.org/abs/1809.03966)     
+The reference to cite is: [https://doi.org/10.1016/j.cma.2020.112885](https://doi.org/10.1016/j.cma.2020.112885)
 
-"A High-Order Variational Multiscale Approach to Turbulence for Compact Nodal Schemes"
+"A High-Order Multiscale Approach to Turbulence for Compact Nodal Schemes"
 
 Farshad Navah (farshad.navah@mail.mcgill.ca) ; Marta de la Llave Plata, Vincent Couaillier
 
 McGill University / ONERA Châtillon
+
+
+The extended pre-published manuscript can be consulted at: [https://arxiv.org/abs/1809.03966](https://arxiv.org/abs/1809.03966)     
+
 
 **Reference 2:** 
 
