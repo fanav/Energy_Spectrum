@@ -7,11 +7,13 @@
 
 The reference to cite is: [https://doi.org/10.1016/j.cma.2020.112885](https://doi.org/10.1016/j.cma.2020.112885)
 
-"A High-Order Multiscale Approach to Turbulence for Compact Nodal Schemes"
-
-Farshad Navah (farshad.navah@mail.mcgill.ca) ; Marta de la Llave Plata, Vincent Couaillier
-
-McGill University / ONERA Châtillon
+Farshad Navah, Marta de la Llave Plata, Vincent Couaillier,
+A high-order multiscale approach to turbulence for compact nodal schemes,
+Computer Methods in Applied Mechanics and Engineering,
+Volume 363,
+2020,
+112885,
+ISSN 0045-7825.
 
 
 The extended pre-published manuscript can be consulted at: [https://arxiv.org/abs/1809.03966](https://arxiv.org/abs/1809.03966)     
