@@ -135,7 +135,7 @@ axes.set_ylim([10**-25,5**-1])
 print("Real      Kmax    = ",realsize)
 print("Spherical Kmax    = ",len(EK_avsphr))
 
-TKEofmean_discrete = 0.5*(np.sum(U/U.size)**2+np.sum(W/W.size)**2+np.sum(W/W.size)**2)
+TKEofmean_discrete = 0.5*(np.sum(U/U.size)**2+np.sum(V/V.size)**2+np.sum(W/W.size)**2)
 TKEofmean_sphere   = EK_avsphr[0]
 
 total_TKE_discrete = np.sum(0.5*(U**2+V**2+W**2))/(N*1.0)**3
